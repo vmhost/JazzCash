@@ -18,7 +18,7 @@ Payment Gateway modules allow you to integrate payment solutions with the WHMCS 
 
 ## Setup
 
-Begin by activating the payment gateway under Setup > Payments > Payment Gateways and choose FastSpring from the Available Gateways dropdown.
+Begin by activating the payment gateway under Setup > Payments > Payment Gateways and choose JazzCash from the Available Gateways dropdown.
 
 
 For integration with your WHMCS, visit https://vmakerhost.com or email us at : support@vmakerhost.com
